@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GshDTPDZctNHVzkTYEdCrXuA8VW2ud8gVHOaNhejX64=",
+  "Source": "TicTacToeServerPart",
+  "BasePath": "_content/TicTacToeServerPart",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
